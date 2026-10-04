@@ -1,0 +1,27 @@
+[project]
+name = "qcompile-rl-lab"
+version = "0.1.0"
+description = "RL and GNN methods for VQE ansatz design and quantum circuit-cut placement (PennyLane, Qiskit, qiskit-addon-cutting)"
+requires-python = ">=3.11"
+dependencies = [
+  "pennylane==0.45.1",
+  "qiskit==2.5.2",
+  "qiskit-aer==0.17.2",
+  "qiskit-addon-cutting==0.10.0",
+  "torch>=2.4",
+  "numpy",
+  "scipy",
+  "networkx",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff"]
+
+[tool.ruff]
+line-length = 130
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+
+[tool.ruff.lint]
+ignore = ["C408", "SIM115"]

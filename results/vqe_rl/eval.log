@@ -1,0 +1,119 @@
+pol ('gnn_s0.pt', ('H4', 1.2)) {'reached': True, 'cnots': 140}
+pol ('gnn_s0.pt', ('H4', 1.0)) {'reached': True, 'cnots': 126}
+pol ('gnn_s0.pt', ('H4', 0.8)) {'reached': True, 'cnots': 126}
+pol ('gnn_s0.pt', ('H4', 1.4)) {'reached': True, 'cnots': 140}
+pol ('gnn_s0.pt', ('H4', 1.6)) {'reached': True, 'cnots': 146}
+pol ('gnn_s0.pt', ('H4', 1.8)) {'reached': True, 'cnots': 146}
+pol ('gnn_s0.pt', ('LiH', 1.2)) {'reached': True, 'cnots': 14}
+pol ('gnn_s0.pt', ('LiH', 2.0)) {'reached': True, 'cnots': 14}
+pol ('gnn_s0.pt', ('LiH', 3.2)) {'reached': True, 'cnots': 18}
+pol ('gnn_s0.pt', ('H4', 2.0)) {'reached': True, 'cnots': 152}
+pol ('gnn_s0.pt', ('LiH', 1.6)) {'reached': True, 'cnots': 14}
+pol ('gnn_s0.pt', ('LiH', 3.6)) {'reached': True, 'cnots': 34}
+pol ('gnn_s0.pt', ('LiH', 2.4)) {'reached': True, 'cnots': 28}
+pol ('gnn_s0.pt', ('LiH', 2.8)) {'reached': True, 'cnots': 18}
+base ('LiH', 3.2) {}
+base ('LiH', 2.8) {}
+pol ('gnn_s1.pt', ('LiH', 1.6)) {'reached': True, 'cnots': 14}
+pol ('gnn_s1.pt', ('H4', 1.0)) {'reached': True, 'cnots': 126}
+pol ('gnn_s1.pt', ('H4', 0.8)) {'reached': True, 'cnots': 126}
+pol ('gnn_s1.pt', ('H4', 1.2)) {'reached': True, 'cnots': 140}
+pol ('gnn_s1.pt', ('LiH', 1.2)) {'reached': True, 'cnots': 14}
+pol ('gnn_s1.pt', ('H4', 1.4)) {'reached': True, 'cnots': 140}
+pol ('gnn_s1.pt', ('LiH', 2.4)) {'reached': True, 'cnots': 28}
+pol ('gnn_s1.pt', ('LiH', 2.0)) {'reached': True, 'cnots': 14}
+pol ('gnn_s1.pt', ('LiH', 2.8)) {'reached': True, 'cnots': 44}
+pol ('gnn_s1.pt', ('H4', 1.6)) {'reached': True, 'cnots': 162}
+base ('LiH', 1.6) {}
+base ('LiH', 1.2) {}
+base ('LiH', 2.0) {}
+pol ('gnn_s1.pt', ('H4', 1.8)) {'reached': True, 'cnots': 162}
+pol ('gnn_s2.pt', ('H4', 0.8)) {'reached': True, 'cnots': 126}
+pol ('gnn_s1.pt', ('LiH', 3.2)) {'reached': True, 'cnots': 46}
+pol ('gnn_s2.pt', ('H4', 1.2)) {'reached': True, 'cnots': 140}
+pol ('gnn_s2.pt', ('H4', 1.0)) {'reached': True, 'cnots': 126}
+pol ('gnn_s2.pt', ('H4', 1.4)) {'reached': True, 'cnots': 140}
+pol ('gnn_s1.pt', ('LiH', 3.6)) {'reached': True, 'cnots': 46}
+pol ('gnn_s1.pt', ('H4', 2.0)) {'reached': True, 'cnots': 188}
+base ('LiH', 2.4) {}
+pol ('gnn_s2.pt', ('H4', 1.6)) {'reached': True, 'cnots': 150}
+pol ('gnn_s2.pt', ('LiH', 1.2)) {'reached': True, 'cnots': 14}
+pol ('gnn_s2.pt', ('LiH', 1.6)) {'reached': True, 'cnots': 14}
+pol ('gnn_s2.pt', ('LiH', 2.0)) {'reached': True, 'cnots': 14}
+pol ('gnn_s2.pt', ('H4', 1.8)) {'reached': True, 'cnots': 150}
+pol ('gnn_s2.pt', ('LiH', 2.4)) {'reached': True, 'cnots': 28}
+pol ('gnn_s2.pt', ('LiH', 2.8)) {'reached': True, 'cnots': 18}
+pol ('gnn_s2.pt', ('H4', 2.0)) {'reached': True, 'cnots': 150}
+pol ('mlp_s0.pt', ('H4', 0.8)) {'reached': True, 'cnots': 126}
+pol ('gnn_s2.pt', ('LiH', 3.2)) {'reached': True, 'cnots': 18}
+pol ('mlp_s0.pt', ('H4', 1.2)) {'reached': True, 'cnots': 140}
+pol ('mlp_s0.pt', ('H4', 1.0)) {'reached': True, 'cnots': 126}
+pol ('gnn_s2.pt', ('LiH', 3.6)) {'reached': True, 'cnots': 46}
+pol ('mlp_s0.pt', ('H4', 1.4)) {'reached': True, 'cnots': 140}
+pol ('mlp_s0.pt', ('LiH', 2.0)) {'reached': True, 'cnots': 14}
+pol ('mlp_s0.pt', ('LiH', 2.4)) {'reached': True, 'cnots': 16}
+pol ('mlp_s0.pt', ('H4', 1.6)) {'reached': True, 'cnots': 150}
+pol ('mlp_s0.pt', ('LiH', 1.2)) {'reached': True, 'cnots': 14}
+pol ('mlp_s0.pt', ('H4', 2.0)) {'reached': True, 'cnots': 148}
+pol ('mlp_s0.pt', ('H4', 1.8)) {'reached': True, 'cnots': 150}
+pol ('mlp_s0.pt', ('LiH', 1.6)) {'reached': True, 'cnots': 14}
+pol ('mlp_s0.pt', ('LiH', 3.6)) {'reached': True, 'cnots': 46}
+pol ('mlp_s0.pt', ('LiH', 3.2)) {'reached': True, 'cnots': 18}
+pol ('mlp_s0.pt', ('LiH', 2.8)) {'reached': True, 'cnots': 18}
+pol ('mlp_s1.pt', ('H4', 0.8)) {'reached': True, 'cnots': 126}
+pol ('mlp_s1.pt', ('H4', 1.2)) {'reached': True, 'cnots': 140}
+pol ('mlp_s1.pt', ('H4', 1.0)) {'reached': True, 'cnots': 126}
+pol ('mlp_s1.pt', ('H4', 1.4)) {'reached': True, 'cnots': 140}
+pol ('mlp_s1.pt', ('LiH', 1.2)) {'reached': True, 'cnots': 14}
+base ('LiH', 3.6) {}
+pol ('mlp_s1.pt', ('H4', 1.6)) {'reached': True, 'cnots': 150}
+pol ('mlp_s1.pt', ('H4', 2.0)) {'reached': True, 'cnots': 152}
+pol ('mlp_s1.pt', ('H4', 1.8)) {'reached': True, 'cnots': 150}
+pol ('mlp_s1.pt', ('LiH', 1.6)) {'reached': True, 'cnots': 14}
+pol ('mlp_s1.pt', ('LiH', 3.2)) {'reached': True, 'cnots': 18}
+pol ('mlp_s1.pt', ('LiH', 2.4)) {'reached': True, 'cnots': 16}
+pol ('mlp_s1.pt', ('LiH', 3.6)) {'reached': True, 'cnots': 46}
+pol ('mlp_s1.pt', ('LiH', 2.8)) {'reached': True, 'cnots': 18}
+pol ('mlp_s1.pt', ('LiH', 2.0)) {'reached': True, 'cnots': 14}
+pol ('mlp_s2.pt', ('H4', 0.8)) {'reached': True, 'cnots': 126}
+pol ('mlp_s2.pt', ('H4', 1.2)) {'reached': True, 'cnots': 140}
+pol ('mlp_s2.pt', ('H4', 1.0)) {'reached': True, 'cnots': 126}
+pol ('mlp_s2.pt', ('H4', 1.4)) {'reached': True, 'cnots': 140}
+pol ('mlp_s2.pt', ('LiH', 1.2)) {'reached': True, 'cnots': 14}
+pol ('mlp_s2.pt', ('LiH', 2.0)) {'reached': True, 'cnots': 14}
+pol ('mlp_s2.pt', ('H4', 1.6)) {'reached': True, 'cnots': 150}
+pol ('mlp_s2.pt', ('LiH', 1.6)) {'reached': True, 'cnots': 14}
+pol ('mlp_s2.pt', ('LiH', 2.8)) {'reached': True, 'cnots': 18}
+pol ('mlp_s2.pt', ('H4', 1.8)) {'reached': True, 'cnots': 146}
+pol ('mlp_s2.pt', ('H4', 2.0)) {'reached': True, 'cnots': 150}
+pol ('mlp_s2.pt', ('LiH', 2.4)) {'reached': True, 'cnots': 16}
+pol ('mlp_s2.pt', ('LiH', 3.2)) {'reached': True, 'cnots': 18}
+pol ('mlp_s2.pt', ('LiH', 3.6)) {'reached': True, 'cnots': 46}
+pol ('gnn_s2.pt', ('H6', 1.0)) {'reached': True, 'cnots': 662}
+pol ('gnn_s1.pt', ('H6', 0.9)) {'reached': True, 'cnots': 644}
+pol ('gnn_s0.pt', ('H6', 1.0)) {'reached': True, 'cnots': 662}
+pol ('gnn_s2.pt', ('H6', 0.9)) {'reached': True, 'cnots': 630}
+pol ('gnn_s0.pt', ('H6', 0.9)) {'reached': True, 'cnots': 630}
+pol ('gnn_s2.pt', ('H6', 1.2)) {'reached': False, 'cnots': 732}
+pol ('gnn_s0.pt', ('H6', 1.2)) {'reached': False, 'cnots': 744}
+pol ('mlp_s2.pt', ('H6', 0.9)) {'reached': True, 'cnots': 618}
+pol ('mlp_s2.pt', ('H6', 1.0)) {'reached': True, 'cnots': 662}
+pol ('mlp_s0.pt', ('H6', 0.9)) {'reached': True, 'cnots': 630}
+pol ('mlp_s0.pt', ('H6', 1.0)) {'reached': True, 'cnots': 686}
+pol ('mlp_s1.pt', ('H6', 1.2)) {'reached': False, 'cnots': 732}
+pol ('mlp_s1.pt', ('H6', 0.9)) {'reached': True, 'cnots': 620}
+pol ('gnn_s1.pt', ('H6', 1.0)) {'reached': True, 'cnots': 686}
+pol ('gnn_s1.pt', ('H6', 1.2)) {'reached': False, 'cnots': 744}
+pol ('mlp_s1.pt', ('H6', 1.0)) {'reached': True, 'cnots': 664}
+pol ('mlp_s0.pt', ('H6', 1.2)) {'reached': False, 'cnots': 732}
+pol ('mlp_s2.pt', ('H6', 1.2)) {'reached': False, 'cnots': 732}
+base ('H6', 0.9) {}
+base ('H6', 1.2) {}
+base ('H6', 1.0) {}
+base ('H4', 0.8) {}
+base ('H4', 1.0) {}
+base ('H4', 1.4) {}
+base ('H4', 1.8) {}
+base ('H4', 1.6) {}
+base ('H4', 1.2) {}
+base ('H4', 2.0) {}

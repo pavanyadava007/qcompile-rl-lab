@@ -1,0 +1,76 @@
+{
+ "lih": {
+  "ansatz_error_mha": 1.3050068112869795,
+  "cx": 18,
+  "min_cuts": 0.0,
+  "side": [
+   1,
+   1,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  "pauli_terms": 105,
+  "exact_energy": -7.7264281650099225,
+  "rows": [
+   {
+    "shots_per_subexperiment": 1000,
+    "n_subexperiments": 18,
+    "overhead": 1.0,
+    "cut_abs_err": 0.003569237826348992,
+    "cut_err_sd": 0.004244742412113314,
+    "uncut_abs_err": 0.0068750454633867975,
+    "seconds": 2.8450131700000156
+   },
+   {
+    "shots_per_subexperiment": 10000,
+    "n_subexperiments": 18,
+    "overhead": 1.0,
+    "cut_abs_err": 0.0007535413431423166,
+    "cut_err_sd": 0.0008862777668908487,
+    "uncut_abs_err": 0.0015131379768747344,
+    "seconds": 11.700982539000051
+   }
+  ]
+ },
+ "modular12": {
+  "cx": 38,
+  "gnn_cuts": 2.0,
+  "gnn_kl_cuts": 2.0,
+  "exact_cuts": 2.0,
+  "pauli_terms": 34,
+  "exact_energy": -0.635918280718027,
+  "rows": [
+   {
+    "shots_per_subexperiment": 1000,
+    "n_subexperiments": 144,
+    "overhead": 81.0,
+    "cut_abs_err": 0.12979663771278965,
+    "cut_err_sd": 0.15819376108770078,
+    "uncut_abs_err": 0.016106201176099778,
+    "seconds": 18.598670727000012
+   },
+   {
+    "shots_per_subexperiment": 10000,
+    "n_subexperiments": 144,
+    "overhead": 81.0,
+    "cut_abs_err": 0.04708368464362199,
+    "cut_err_sd": 0.054292831462148736,
+    "uncut_abs_err": 0.004120322810272081,
+    "seconds": 139.26272703299992
+   },
+   {
+    "shots_per_subexperiment": 100000,
+    "n_subexperiments": 144,
+    "overhead": 81.0,
+    "cut_abs_err": 0.007955832358838556,
+    "cut_err_sd": 0.008917557357721538,
+    "uncut_abs_err": 0.0012651809811339177,
+    "seconds": 1291.0882190029997
+   }
+  ]
+ }
+}
